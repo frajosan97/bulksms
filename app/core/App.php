@@ -45,7 +45,7 @@ class App
         return array(
             "appName" => "hencan group bulk sms",
             "appDesc" => "Reach a large number of customers on all available channels with one API request. Send alert notifications to iOS, android devices, and web browsers using a single API.",
-            "appSK" => "Bulk SMS,sms,API,bulk,hencan,group,servers,server,web hosting,domain,domains",
+            "appSK" => "Bulk SMS, sms, API, bulk, hencan, group, servers, server, web hosting, domain, domains",
             "appEmail" => "info@hencansms.co.ke",
             "appPhone" => "0796594366",
             "smsPrice" => "0.8"
