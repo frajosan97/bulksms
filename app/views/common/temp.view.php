@@ -80,7 +80,7 @@
             <div class="container py-5 home-desc text-white">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>HENCAN BULK SMS</h1>
+                        <h1><?= strtoupper(APPINFO['appDesc']) ?></h1>
                         <p>
                             We are in frontline in BUILDING RELATIONSHIPS WITH YOUR CUSTOMERS Delivering 10 Billion+ SMS every month and helping businesses in expanding and promoting their business through SMS.
                         </p>
@@ -137,7 +137,10 @@
                             <a href="https://advantasms.com/">Advanta Africa</a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href="https://www.hencangroup.co.ke/">Hencan Group Enterprises</a>
+                            <a href="https://www.hencangroup.co.ke/">Hencan group</a>
+                        </li>
+                        <li class="list-group-item bg-transparent px-0 border-0">
+                            <a href="https://cicenrygroup.com/">Cicenry group Sarl - DRC</a>
                         </li>
                     </ul>
                 </div>
@@ -155,7 +158,7 @@
                     </ul>
                 </div>
                 <div class="col-md-12 text-center pt-4">
-                    <a href="">&copy Hencan Bulk SMS <?= date('Y') ?> | All rights reserved | Powered by: ICT Team</a>
+                    <a href="">&copy Hencan Bulk SMS <?= date('Y') ?> | All rights reserved | Powered by: Hencan Technologies</a>
                 </div>
             </div>
         </div>
