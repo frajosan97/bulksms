@@ -80,7 +80,7 @@
             <div class="container py-5 home-desc text-white">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1><?= strtoupper(APPINFO['appDesc']) ?></h1>
+                        <h1><?= strtoupper(APPINFO['appName']) ?></h1>
                         <p>
                             We are in frontline in BUILDING RELATIONSHIPS WITH YOUR CUSTOMERS Delivering 10 Billion+ SMS every month and helping businesses in expanding and promoting their business through SMS.
                         </p>
