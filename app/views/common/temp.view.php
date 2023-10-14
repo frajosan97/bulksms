@@ -150,10 +150,10 @@
                             <h3>Contact Us</h3>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href=""><i class="fas fa-phone"></i> +254796594366</a>
+                            <a href=""><i class="fas fa-phone"></i> +<?= smartPhone(APPINFO['appPhone']) ?></a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href=""><i class="fas fa-envelope"></i> info@hencanbulksms.com</a>
+                            <a href=""><i class="fas fa-envelope"></i> <?= APPINFO['appEmail'] ?></a>
                         </li>
                     </ul>
                 </div>
