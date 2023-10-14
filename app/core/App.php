@@ -2,7 +2,7 @@
 
 class App
 {
-    private $controller = 'Dashboard';
+    private $controller = 'Home';
     private $method = 'index';
     private function splitUrl()
     {
@@ -44,6 +44,8 @@ class App
     {
         return array(
             "appName" => "hencan group bulk sms",
+            "appDesc" => "Reach a large number of customers on all available channels with one API request. Send alert notifications to iOS, android devices, and web browsers using a single API.",
+            "appSK" => "Bulk SMS,sms,API,bulk,hencan,group,servers,server,web hosting,domain,domains",
             "smsPrice" => "0.8"
         );
     }

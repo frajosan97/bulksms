@@ -5,6 +5,8 @@
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title><?= strtoupper(APPINFO['appName']) ?></title>
+    <meta name="description" content="<?= strtoupper(APPINFO['appDesc']) ?>">
+    <meta name="keywords" content="<?= strtoupper(APPINFO['appSK']) ?>">
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel="shortcut icon" href="<?= ROOT ?>public/assets/images/favicon.ico" type="image/x-icon">
     <link rel='stylesheet' type='text/css' media='screen' href='<?= ROOT ?>public/assets/css/bootstrap.min.css'>
