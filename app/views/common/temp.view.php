@@ -167,6 +167,22 @@
         </div>
     </section>
 
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/652d4a7a6fcfe87d54ba4640/1hcselsim';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
     <script src='<?= ROOT ?>public/assets/js/bootstrap.js'></script>
     <script src='<?= ROOT ?>public/assets/js/ajax.js'></script>
     <script src='<?= ROOT ?>public/assets/js/app.js'></script>
