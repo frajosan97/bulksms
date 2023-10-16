@@ -153,7 +153,7 @@
                             <a href=""><i class="fas fa-phone"></i> Whatsapp: +254721270985</a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href=""><i class="fas fa-phone"></i> Whatsapp: +24382231861</a>
+                            <a href=""><i class="fas fa-phone"></i> Whatsapp: +243822318681</a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
                             <a href=""><i class="fas fa-envelope"></i> <?= APPINFO['appEmail'] ?></a>

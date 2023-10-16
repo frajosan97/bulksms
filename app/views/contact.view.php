@@ -48,7 +48,7 @@
                             Address: P.O BOX 20345 – 00100 Nairobi <br>
                             Direct phone call: +<?=smartPhone("0796594366")?> <br>
                             Whatsapp: +254721270985 <br>
-                            Whatsapp: +24382231861
+                            Whatsapp: +243822318681
                         </div>
                         <span class="badge pri-bg"><i class="fas fa-home fa-2x"></i></span>
                     </li>
