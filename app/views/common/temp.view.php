@@ -134,9 +134,6 @@
                             <h3>Our Partners</h3>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href="https://advantasms.com/">Advanta Africa</a>
-                        </li>
-                        <li class="list-group-item bg-transparent px-0 border-0">
                             <a href="https://www.hencangroup.co.ke/">Hencan group</a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
@@ -150,7 +147,13 @@
                             <h3>Contact Us</h3>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
-                            <a href=""><i class="fas fa-phone"></i> +<?= smartPhone(APPINFO['appPhone']) ?></a>
+                            <a href=""><i class="fas fa-phone"></i> Direct Call: +<?= smartPhone(APPINFO['appPhone']) ?></a>
+                        </li>
+                        <li class="list-group-item bg-transparent px-0 border-0">
+                            <a href=""><i class="fas fa-phone"></i> Whatsapp: +254721270985</a>
+                        </li>
+                        <li class="list-group-item bg-transparent px-0 border-0">
+                            <a href=""><i class="fas fa-phone"></i> Whatsapp: +24382231861</a>
                         </li>
                         <li class="list-group-item bg-transparent px-0 border-0">
                             <a href=""><i class="fas fa-envelope"></i> <?= APPINFO['appEmail'] ?></a>

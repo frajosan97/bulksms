@@ -37,7 +37,7 @@
                     <li class="list-group-item d-flex justify-content-between align-items-start">
                         <div class="ms-2 me-auto">
                             <div class="fw-bold">Email</div>
-                            info@hencangroup.co.ke <br>
+                            info@hencansms.co.ke <br>
                         </div>
                         <span class="badge pri-bg"><i class="fas fa-envelope fa-2x"></i></span>
                     </li>
@@ -46,8 +46,9 @@
                         <div class="ms-2 me-auto">
                             <div class="fw-bold">Contact Info</div>
                             Address: P.O BOX 20345 – 00100 Nairobi <br>
-                            Phone: +<?=smartPhone("0796594366")?> <br>
-                            Phone: +<?=smartPhone("0796594373")?>
+                            Direct phone call: +<?=smartPhone("0796594366")?> <br>
+                            Whatsapp: +254721270985 <br>
+                            Whatsapp: +24382231861
                         </div>
                         <span class="badge pri-bg"><i class="fas fa-home fa-2x"></i></span>
                     </li>
